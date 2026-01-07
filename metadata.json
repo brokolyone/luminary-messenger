@@ -1,0 +1,8 @@
+{
+  "name": "Luminary Messenger",
+  "description": "A feature-rich, Telegram-inspired lightweight messenger built with React, Tailwind CSS, and Framer Motion, featuring a modern UI and customizable settings.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
