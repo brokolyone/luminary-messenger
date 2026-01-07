@@ -28,7 +28,7 @@ If you want to explore the code or run this project on your machine:
     cd luminary-messenger
     ```
 *   **Option B (ZIP):**
-    [Download ZIP Archive](https://github.com/your-username/luminary-messenger/archive/refs/heads/main.zip), extract it, and open the folder in your terminal.
+    [Download ZIP Archive](https://github.com/brokolyone/luminary-messenger/archive/refs/heads/main.zip), extract it, and open the folder in your terminal.
 
 ### 2. Install Dependencies
 Ensure you have [Node.js](https://nodejs.org/) (v18+) installed.
@@ -51,3 +51,4 @@ npm run build
 *   React + TypeScript
 *   Tailwind CSS
 *   Vite
+*   HTML
